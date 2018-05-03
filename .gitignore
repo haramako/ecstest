@@ -1,6 +1,9 @@
 /Library
 /Temp
+/.vs
 
 *.sln
 *.csproj
 *.userprefs
+
+/ecstest
