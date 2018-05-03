@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
+public class UseGameObject : MonoBehaviour
 {
 
-    public static GameManager Instance;
+    public static UseGameObject Instance;
     public Terrain Ground;
     public Camera Camera;
 

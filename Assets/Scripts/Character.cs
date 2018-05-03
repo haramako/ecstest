@@ -39,7 +39,7 @@ public class Character : MonoBehaviour
 
     void Update()
     {
-        var g = GameManager.Instance.Ground;
+        var g = UseGameObject.Instance.Ground;
         var pos = this.transform.localPosition;
         var h = g.SampleHeight(pos);
         pos.y = h + 0.5f;
