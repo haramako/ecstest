@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Enemy0004
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ea196660cd127714780edbf50475c640, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0c50a9a5560de46fd911a4611c4476f1, type: 3}
+  - {fileID: 21300000, guid: 75bc60fa9e9bf485c943cea308e7aa31, type: 3}
+  - {fileID: 21300000, guid: 56d40875aefb1453e81f4d193bdcc27f, type: 3}
+  - {fileID: 21300000, guid: 8634a1c6081554858b8b5ae2dbdc4c40, type: 3}
+  - {fileID: 21300000, guid: bef60eae95b274b18bbf98b6124e334d, type: 3}
+  - {fileID: 21300000, guid: 27994ccabdcf9474992e965564ba8361, type: 3}
+  - {fileID: 21300000, guid: af46e08ec7a9f4d309f06b653ae62b15, type: 3}
+  - {fileID: 21300000, guid: 217ee19b15bc44e52b5622ff10c303f7, type: 3}
+  - {fileID: 21300000, guid: ebde27b32716440f0a9344ec5ce2a213, type: 3}
+  - {fileID: 21300000, guid: 8508dfbbabbac409d8d38764a2d8cff6, type: 3}
+  - {fileID: 21300000, guid: 1662b344c8c3e488db484c17e8334340, type: 3}
+  - {fileID: 21300000, guid: 85930cd4be4e246b59c88d45e5abf599, type: 3}
+  - {fileID: 21300000, guid: 7928fc25b67464438837ecf7573efa1a, type: 3}
+  - {fileID: 21300000, guid: 60bdecfe668f741eb82fc6e430579ecf, type: 3}
+  - {fileID: 21300000, guid: 41c67a49c3c584c5ab34b479ec08a6d9, type: 3}
+  - {fileID: 21300000, guid: 16598186f5ef341609bc4ff8b5fa4d20, type: 3}
+  - {fileID: 21300000, guid: 25119be0a811f4d8099a13a25a6dd075, type: 3}
+  - {fileID: 21300000, guid: 0df9df8976d7a4476a7db5d82f1363db, type: 3}
+  - {fileID: 21300000, guid: cb16b5a5ebbb74d09bc5f87c1f5982b5, type: 3}
+  - {fileID: 21300000, guid: 0d6dd8d2205bc460c8f754c010979936, type: 3}
+  - {fileID: 21300000, guid: cf57f102065b84b608f167358122a1b5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - damage_1
+  - move_4_1
+  - attack_0_2
+  - attack_0_1
+  - move_3_1
+  - attack_2_2
+  - attack_3_2
+  - attack_2_1
+  - attack_3_1
+  - move_1_1
+  - attack_1_2
+  - attack_4_1
+  - attack_1_1
+  - move_4_2
+  - move_0_1
+  - attack_4_2
+  - move_3_2
+  - move_0_2
+  - move_1_2
+  - move_2_1
+  - move_2_2
+  m_Tag: Enemy0004
+  m_IsVariant: 0
